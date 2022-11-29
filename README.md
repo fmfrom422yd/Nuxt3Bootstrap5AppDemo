@@ -1,4 +1,4 @@
-テスト
+少しずつ簡単なところから理解していく
 
 # Nuxt 3 Minimal Starter
 
