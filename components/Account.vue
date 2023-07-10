@@ -1,0 +1,9 @@
+<template>
+<div>
+<h1>各種入力</h1>
+<h1>各種出力</h1>
+<NuxtLink>複合仕訳入力</NuxtLink>
+<NuxtLink>元帳入力</NuxtLink>
+<NuxtLink>通帳入力</NuxtLink>
+</div>
+</template>
